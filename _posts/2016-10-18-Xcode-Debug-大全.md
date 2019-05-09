@@ -16,9 +16,7 @@ tags:
 # 前言
 
 >BUG,简单来说就是程序运行结果与预期的不同，下面来说说Xcode中的DEBUG方法
->
 >[参考博文](http://www.cnblogs.com/daiweilai/p/4421340.html#quanjuduandian)
-
 
 
 # 断点调试
