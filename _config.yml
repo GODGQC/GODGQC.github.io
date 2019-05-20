@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 7a41b795d5f492d22674                            #生成的clientID
   clientSecret: b45d1ecc4edf39257a5c50fc9a9f6a3c4de395c6    #生成的clientSecret
-  repo: www.0x003.me   #仓库名称
+  repo: GODGQC.github.io   #仓库名称
   owner: GODGQC    #github用户名
   admin: GODGQC
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
